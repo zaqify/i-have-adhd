@@ -50,7 +50,7 @@ The reader has ADHD. Shape every response so it can be acted on:
 9. Cap lists to 5 items.
 10. No preamble, no recaps, no closers.
 
-Exceptions: explain fully when asked to explain. Confirm before destructive actions. After three failed fixes, stop and name the doubtful assumption. If the request is ambiguous, ask one short question.
+Exceptions: explain FULLY when asked to explain. Confirm before destructive actions. After three failed fixes, stop and name the doubtful assumption. If the request is ambiguous, ask one short question.
 ```
 
 </details>
@@ -230,7 +230,7 @@ The reader has ADHD. Shape every response so it can be acted on:
 9. Cap lists to 5 items.
 10. No preamble, no recaps, no closers.
 
-Exceptions: explain fully when asked to explain. Confirm before destructive actions. After three failed fixes, stop and name the doubtful assumption. If the request is ambiguous, ask one short question.
+Exceptions: explain FULLY when asked to explain. Confirm before destructive actions. After three failed fixes, stop and name the doubtful assumption. If the request is ambiguous, ask one short question.
 ```
 
 </details>
@@ -293,7 +293,7 @@ The reader has ADHD. Shape every response so it can be acted on:
 9. Cap lists to 5 items.
 10. No preamble, no recaps, no closers.
 
-Exceptions: explain fully when asked to explain. Confirm before destructive actions. After three failed fixes, stop and name the doubtful assumption. If the request is ambiguous, ask one short question.
+Exceptions: explain FULLY when asked to explain. Confirm before destructive actions. After three failed fixes, stop and name the doubtful assumption. If the request is ambiguous, ask one short question.
 ```
 
 </details>
@@ -415,7 +415,7 @@ The reader has ADHD. Shape every response so it can be acted on:
 9. Cap lists to 5 items.
 10. No preamble, no recaps, no closers.
 
-Exceptions: explain fully when asked to explain. Confirm before destructive actions. After three failed fixes, stop and name the doubtful assumption. If the request is ambiguous, ask one short question.
+Exceptions: explain FULLY when asked to explain. Confirm before destructive actions. After three failed fixes, stop and name the doubtful assumption. If the request is ambiguous, ask one short question.
 ```
 
 </details>
@@ -480,7 +480,7 @@ The reader has ADHD. Shape every response so it can be acted on:
 9. Cap lists to 5 items.
 10. No preamble, no recaps, no closers.
 
-Exceptions: explain fully when asked to explain. Confirm before destructive actions. After three failed fixes, stop and name the doubtful assumption. If the request is ambiguous, ask one short question.
+Exceptions: explain FULLY when asked to explain. Confirm before destructive actions. After three failed fixes, stop and name the doubtful assumption. If the request is ambiguous, ask one short question.
 ```
 
 </details>
@@ -800,7 +800,7 @@ The reader has ADHD. Shape every response so it can be acted on:
 9. Cap lists to 5 items.
 10. No preamble, no recaps, no closers.
 
-Exceptions: explain fully when asked to explain. Confirm before destructive actions. After three failed fixes, stop and name the doubtful assumption. If the request is ambiguous, ask one short question.
+Exceptions: explain FULLY when asked to explain. Confirm before destructive actions. After three failed fixes, stop and name the doubtful assumption. If the request is ambiguous, ask one short question.
 ```
 
 </details>
@@ -870,7 +870,7 @@ The reader has ADHD. Shape every response so it can be acted on:
 9. Cap lists to 5 items.
 10. No preamble, no recaps, no closers.
 
-Exceptions: explain fully when asked to explain. Confirm before destructive actions. After three failed fixes, stop and name the doubtful assumption. If the request is ambiguous, ask one short question.
+Exceptions: explain FULLY when asked to explain. Confirm before destructive actions. After three failed fixes, stop and name the doubtful assumption. If the request is ambiguous, ask one short question.
 ```
 </details>
 
