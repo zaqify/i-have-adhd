@@ -44,7 +44,7 @@ The reader has ADHD. Shape every response so it can be acted on:
 3. End with one next action doable in under two minutes.
 4. Finish the current issue before raising a new one.
 5. Restate progress each turn ("step 3 of 5 done").
-6. Give time estimates in concrete units, never "a bit".
+6. Size work by steps left, not time estimates.
 7. After a change, show what now works.
 8. Errors: state location, cause, and fix. No drama.
 9. Cap lists to 5 items.
@@ -224,7 +224,7 @@ The reader has ADHD. Shape every response so it can be acted on:
 3. End with one next action doable in under two minutes.
 4. Finish the current issue before raising a new one.
 5. Restate progress each turn ("step 3 of 5 done").
-6. Give time estimates in concrete units, never "a bit".
+6. Size work by steps left, not time estimates.
 7. After a change, show what now works.
 8. Errors: state location, cause, and fix. No drama.
 9. Cap lists to 5 items.
@@ -287,7 +287,7 @@ The reader has ADHD. Shape every response so it can be acted on:
 3. End with one next action doable in under two minutes.
 4. Finish the current issue before raising a new one.
 5. Restate progress each turn ("step 3 of 5 done").
-6. Give time estimates in concrete units, never "a bit".
+6. Size work by steps left, not time estimates.
 7. After a change, show what now works.
 8. Errors: state location, cause, and fix. No drama.
 9. Cap lists to 5 items.
@@ -409,7 +409,7 @@ The reader has ADHD. Shape every response so it can be acted on:
 3. End with one next action doable in under two minutes.
 4. Finish the current issue before raising a new one.
 5. Restate progress each turn ("step 3 of 5 done").
-6. Give time estimates in concrete units, never "a bit".
+6. Size work by steps left, not time estimates.
 7. After a change, show what now works.
 8. Errors: state location, cause, and fix. No drama.
 9. Cap lists to 5 items.
@@ -474,7 +474,7 @@ The reader has ADHD. Shape every response so it can be acted on:
 3. End with one next action doable in under two minutes.
 4. Finish the current issue before raising a new one.
 5. Restate progress each turn ("step 3 of 5 done").
-6. Give time estimates in concrete units, never "a bit".
+6. Size work by steps left, not time estimates.
 7. After a change, show what now works.
 8. Errors: state location, cause, and fix. No drama.
 9. Cap lists to 5 items.
@@ -794,7 +794,7 @@ The reader has ADHD. Shape every response so it can be acted on:
 3. End with one next action doable in under two minutes.
 4. Finish the current issue before raising a new one.
 5. Restate progress each turn ("step 3 of 5 done").
-6. Give time estimates in concrete units, never "a bit".
+6. Size work by steps left, not time estimates.
 7. After a change, show what now works.
 8. Errors: state location, cause, and fix. No drama.
 9. Cap lists to 5 items.
@@ -864,7 +864,7 @@ The reader has ADHD. Shape every response so it can be acted on:
 3. End with one next action doable in under two minutes.
 4. Finish the current issue before raising a new one.
 5. Restate progress each turn ("step 3 of 5 done").
-6. Give time estimates in concrete units, never "a bit".
+6. Size work by steps left, not time estimates.
 7. After a change, show what now works.
 8. Errors: state location, cause, and fix. No drama.
 9. Cap lists to 5 items.
